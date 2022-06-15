@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img aligh="left" src="https://github.com/IskrenP/gifs/blob/main/giphy.gif" width="500" height="320" /><p>
+![Alt Text](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
 
 
 
