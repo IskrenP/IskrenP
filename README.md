@@ -27,7 +27,7 @@
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84)
 ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-<img class="desktop-logo hidden-xs" src="/content/images/svg-logos/software-university-logo.svg" alt="Logo" title="Software University">
+[![Software University Logo](https://goo.gl/KYm0Tz)](https://softuni.bg)
 
 
 
