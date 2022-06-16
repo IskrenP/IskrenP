@@ -23,7 +23,7 @@
       ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
       ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
       
-     ![SoftUni]((https://about.softuni.bg/Content/images/home-page/software-university-logo.svg))
+     ![SoftUni]((https://about.softuni.bg/Content/images/home-page/software-university-logo.svg)
 
 ### GitHub stats
 <p>
