@@ -24,6 +24,7 @@
       
 ### Education
 [![Software University Logo](https://goo.gl/KYm0Tz)](https://softuni.bg)
+<img src="/Content/images/home-page/software-university-logo.svg" alt="Software University" title="Software University">
 
 
 
