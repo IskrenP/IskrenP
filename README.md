@@ -20,7 +20,7 @@
       
       
 ### Education
-[![Software University Logo]([https://goo.gl/KYm0Tz](https://vectorlogoseek.com/software-university-ltd-vector-logo-svg/))](https://softuni.bg)
+[![Software University Logo]([https://vectorlogoseek.com/wp-content/uploads/2019/11/software-university-ltd-vector-logo.png])](https://softuni.bg)
 
 
 
